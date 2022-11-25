@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37126105477",
+    "firebase_url": "https://eulers-ball-website-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eulers-ball-website",
+    "storage_bucket": "eulers-ball-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37126105477:android:b078f4a2abee85a4c13cec",
+        "android_client_info": {
+          "package_name": "com.TomaszPiasecki.EulersBall.balance.physics.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37126105477-8g4tneb8ma8l9obj90hon3488h0ub18f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfD6JkxXmoYfBwedUQNUkk8MBy-T_vmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37126105477-8g4tneb8ma8l9obj90hon3488h0ub18f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
