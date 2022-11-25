@@ -77,3 +77,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ff]irebase/
 
 user.keystore
+.gitignored
